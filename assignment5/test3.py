@@ -1,0 +1,6 @@
+name=(input("enter ten name"))
+let=(input("one letter"))
+B=name.capitalize()
+print(B)
+c='name'.count(let)
+print(c)
