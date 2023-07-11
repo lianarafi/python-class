@@ -1,0 +1,9 @@
+name=['ali','sara','vahid','reza','sara','mahla','atefeh','sara','saeed']
+print(name)
+a=name[0]
+b=name[2]
+c=name[3]
+d=name[5]
+e=name[6]
+f=name[8]
+print(a,b,c,d,e,f)
