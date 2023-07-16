@@ -1,13 +1,16 @@
-names=('ali','atefe','reza','homa','amir','fateme')
-a=input("enter name 1:")
-aa=int(input("enter number1:"))
+names = ["ali", "atefe", "reza", "homa", "amir", "fateme"]
 
-a2=input("enter name 2:")
-aa2=int(input("enter number2:"))
+n1 = input("enter name 1: ")
+nu1 = int(input("enter number 1: "))
 
-a3=input("enter name 3:")
-aa3=int(input("enter number3:"))
-names.insert(aa-1,a)
-names.insert(a2-1,aa2)
-names.insert(a3-1,aa3)
+n2 = input("enter name 2: ")
+nu2 = int(input("enter number 2: "))
+
+n3 = input("enter name 3: ")
+nu3 = int(input("enter number 3: "))
+
+names.insert(nu1-1,n1)
+names.insert(nu2-1,n2)
+names.insert(nu3-1,n3)
+
 print(names)
