@@ -5,7 +5,7 @@
 # dict
 ![Screenshot 2023-07-20 104119](https://github.com/lianarafi/python-class/assets/137832350/84ac36ac-ffd9-4c83-994e-928a84be48b8)
 # number
-![Screenshot 2023-07-20 104239](https://github.com/lianarafi/python-class/assets/137832350/9be4445d-19cd-4263-bdb6-4eafcf31a2e3)
+![Screenshot 2023-07-20 123355](https://github.com/lianarafi/python-class/assets/137832350/01385106-80d5-456a-8952-f9477e9cce3b)
 # num
 ![Screenshot 2023-07-20 104349](https://github.com/lianarafi/python-class/assets/137832350/18447faa-026c-4f6b-887f-e13bc9f734e0)
 # qrcode.
