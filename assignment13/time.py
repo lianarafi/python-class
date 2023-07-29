@@ -2,7 +2,7 @@ print('1.sum')
 print('2.minus')
 o=int(input('choose one'))
 if o==1:
-    m=int(input('enter  first miment'))
+    m=int(input('enter  first daqiqe'))
     s=int(input('enter  first sait'))
     mm=int(input('enter secend daqiqe'))
     ss=int(input('enter secend sait'))
